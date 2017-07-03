@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CarCare</string>
+    <string name="welcome_title">CarCare</string>
+    <string name="welcome_start_button_title">Start</string>
+    <string name="title_activity_dashboard">CarCare</string>
+    <string name="title_activity_main">CarCare</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_entries">Entries</string>
+    <string name="title_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_entry">New Entry</string>
+    <string name="add_entry_gallons_hint">Gallons</string>
+    <string name="add_entry_unit_price_hint">Unit Price</string>
+    <string name="add_entry_odometer_hint">Last Odometer</string>
+    <string name="add_entry_location_reference_hint">Location Reference</string>
+    <string name="error_message_field_empty">This field is empty</string>
+</resources>
